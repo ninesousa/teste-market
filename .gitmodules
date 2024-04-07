@@ -1,0 +1,3 @@
+[submodule "teste-markett"]
+	path = teste-markett
+	url = git@github.com:ninesousa/teste-market.git
